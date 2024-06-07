@@ -1,8 +1,8 @@
 class DeplyaiCli < Formula
   include Language::Python::Virtualenv
 
-  desc "Shiny new formula"
-  homepage "None"
+  desc "DeplyAI CLI is designed to interact with the DeplyAI Platform, facilitating the management and automation of AI workflows directly from the command line."
+  homepage "https://deplyai.com/"
   url "https://files.pythonhosted.org/packages/87/ab/80bfecc8efa7803a6dbe652d17ee7b649baedf9be3d158a3cb145eeacdc0/deplyai_cli-0.2.2.tar.gz"
   sha256 "5d61f9634e74175288de9800b4f1df2accbfe6a4835f339e9b9b2a0487fcca7a"
 
